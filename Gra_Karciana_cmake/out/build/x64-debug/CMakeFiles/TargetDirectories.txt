@@ -1,0 +1,3 @@
+C:/Users/Arkadiusz/source/repos/Gra_Karciana_cmake/out/build/x64-debug/CMakeFiles/Gra_Karciana_cmake.dir
+C:/Users/Arkadiusz/source/repos/Gra_Karciana_cmake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arkadiusz/source/repos/Gra_Karciana_cmake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
